@@ -1,0 +1,6 @@
+Project-Template for the TI Stellaris ARM Cortex M4 Evaluation Boards
+Settings in Makefile have to be made:
+- Include to Stellarisware
+- Path to lm4tools lm4flash
+- objects to be created
+
